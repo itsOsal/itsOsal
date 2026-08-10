@@ -4,20 +4,12 @@
   <p align="right">
 "I’m not an introvert; I just don’t know how to talk to people"
 <h3 align="center">SOCIALS</h3>
-<hr color="green" height="4">
-<table width="100%">
-<tr>
-<td width="33%" align="left"><a href="https://instagram.com/itsnortse"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a></td>
-<td width="33%" align="center"><a href="https://linkedin.com/in/itsnortse"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a></td>
-<td width="33%" align="right"><a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a></td>
-</tr>
-</table>
-<table width="100%">
-<tr>
-<td align="left">A</td>
-<td align="right">B</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://instagram.com/itsnortse"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+<a href="https://linkedin.com/in/itsnortse"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+<a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+<a href="mailto:itskimsia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</p>
 Nǐ hǎo! Wǒ shì OSAL<br>
 • Interested in UI/UX Design.<br>
 • Aspiring to become a Software Engineer.<br>
@@ -35,17 +27,6 @@ Nǐ hǎo! Wǒ shì OSAL<br>
 <hr color="green" height="1">
 <h3 align="center">My Favorite Social Media</h3>
 <hr color="green" height="4">
-
-<p align="center">
-🌐 Socials:<br>
-<a href="https://instagram.com/itsnortse"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-<a href="https://linkedin.com/in/itsnortse"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
-<a href="mailto:itskimsia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-</p>
-
-🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsnortse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsnortse) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itsOsal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itskimsia@gmail.com) 
 
 
 # 💻 Tech Stack:
