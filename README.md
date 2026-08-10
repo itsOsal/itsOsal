@@ -1,52 +1,36 @@
 <p align="center">
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
 <h2 align="center">Welcome To My Universe</h2>
-<hr style="height: 4px; background-color: green; border: none;">
+<hr color="green" height="4">
 
 <h3 align="center">What I Think</h3>
-<hr style="height: 4px; background-color: green; border: none;">
+<hr color="green" height="4">
 
-<p align="left" style="margin: 2px 0;">
-- I’m not an introvert; I just don’t know how to talk to people.
-</p>
-
-Nǐ hǎo! Wǒ shì OSAL
-<p align="left" style="margin: 2px 0;">
-- Interested in UI/UX Design.
-</p>
-<p align="left" style="margin: 2px 0;">
-- Aspiring to become a Software Engineer.
-</p>
-<p align="left" style="margin: 2px 0;">
+<p align="left">
+- I’m not an introvert; I just don’t know how to talk to people.<br>
+Nǐ hǎo! Wǒ shì OSAL<br>
+- Interested in UI/UX Design.<br>
+- Aspiring to become a Software Engineer.<br>
 - Learning l Building l Creating l Improving
 </p>
 
 <h3 align="center">Beyond Coding</h3>
-<hr style="height: 4px; background-color: green; border: none;">
+<hr color="green" height="4">
 
-<p align="left" style="margin: 2px 0;">
-- Video & Photo Editing
-</p>
-<p align="left" style="margin: 2px 0;">
-- Gaming — PUBG l BGMI l MLBB
-</p>
-<p align="left" style="margin: 2px 0;">
-- Reading l Beatboxing l Running
-</p>
-<p align="left" style="margin: 2px 0;">
+<p align="left">
+- Video & Photo Editing<br>
+- Gaming — PUBG l BGMI l MLBB<br>
+- Reading l Beatboxing l Running<br>
 - Guitar — fingerstyle l percussion l chord strumming
 </p>
 
 <h3 align="center">Languages & Interests</h3>
-<hr style="height: 4px; background-color: green; border: none;">
+<hr color="green" height="4">
 
-<p align="left" style="margin: 2px 0;">
-- English — learning & improving fluency
-</p>
-<p align="left" style="margin: 2px 0;">
+<p align="left">
+- English — learning & improving fluency<br>
 - Chinese — interested in learning (speaking)
 </p>
-
 
 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsnortse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsnortse) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itsOsal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itskimsia@gmail.com) 
