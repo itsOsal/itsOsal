@@ -16,7 +16,7 @@
 • Aspiring to become a Software Engineer.<br>
 • Learning l Building l Creating l Improving
 </p>
-<h1 align="center">HOBBIES & INTERESTS</h1>
+<h1 align="center">INTERESTS</h1>
 <p align="left">
 • Video & Photo Editing<br>
 • Reading l Beatboxing l Running<br>
