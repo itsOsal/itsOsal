@@ -1,9 +1,9 @@
 <p align="center">
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
 </p>
-<h2 align="center">Hey, I'm OSAL 👋</h2>
+<h2 align="center">Welcome To My Universe👋</h2>
 
-<p align="center">
+<p>
   🚀 Aspiring Software Engineer • 💻 Web Development • 🎨 UI/UX
 </p>
 
