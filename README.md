@@ -35,7 +35,6 @@
     src="https://raw.githubusercontent.com/itsOsal/itsOsal/output/pacman-contribution-graph-dark.svg">
 </picture>
 <h1 align="center">MY GITHUB JOURNEY</h1>
-<hr color="green" height="0.5">
 
 <table width="100%">
 <tr>
