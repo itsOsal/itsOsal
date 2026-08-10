@@ -3,14 +3,15 @@
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
   <p align="right">
 "I’m not an introvert; I just don’t know how to talk to people"
-<h3 align="center">My Favorite Social Media</h3>
+<h3 align="center">SOCIALS</h3>
 <hr color="green" height="4">
-<p align="left">🌐 Socials:</p>
-
-<a href="https://instagram.com/itsnortse" align="left"><img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-<a href="https://linkedin.com/in/itsnortse"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://youtube.com/@itsOsal" align="right"><img align="right" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
-  <p align="left">
+<table width="100%">
+<tr>
+<td width="33%" align="left"><a href="https://instagram.com/itsnortse"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a></td>
+<td width="33%" align="center"><a href="https://linkedin.com/in/itsnortse"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a></td>
+<td width="33%" align="right"><a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a></td>
+</tr>
+</table>
 Nǐ hǎo! Wǒ shì OSAL<br>
 • Interested in UI/UX Design.<br>
 • Aspiring to become a Software Engineer.<br>
