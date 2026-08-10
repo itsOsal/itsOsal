@@ -1,9 +1,48 @@
 <p align="center">
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
 </p>
+<h2 align="center">Hey, I'm OSAL 👋</h2>
 
-About Me:
-Hi! I'm OSAL<br><br>* Aspiring to become a Software Engineer<br>* Learning, building, and continuously improving<br>* Interested in Web Development & UI/UX Design<br><br><h2/>
+<p align="center">
+  🚀 Aspiring Software Engineer • 💻 Web Development • 🎨 UI/UX
+</p>
+
+<p align="center">
+  Learning • Building • Creating • Improving
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+* 🚀 Aspiring to become a **Software Engineer**
+* 💻 Learning **Web Development, Programming & Software Engineering**
+* 🎨 Interested in **UI/UX Design**
+* 🤖 Exploring **AI, Automation & Modern Technologies**
+* 📚 I enjoy learning new things and building projects
+* 🌱 Always trying to improve — one step at a time
+
+### 🎸 Beyond Coding
+
+* 🎸 **Guitar** — fingerstyle, percussion & chord strumming
+* 🎮 **Gaming** — PUBG / BGMI
+* 📖 **Reading**
+* 🎤 **Beatboxing**
+* 🎬 **Video & Photo Editing**
+* 🏃 **Running**
+
+### 🌍 Languages & Interests
+
+* 🇬🇧 **English** — learning & improving fluency
+* 🇨🇳 **Chinese** — interested in learning
+* 🌏 Interested in **languages, cultures & communication**
+
+### 💡 My Mindset
+
+> **Learn → Build → Fail → Improve → Repeat**
+
+</p>
+
 
 
 
