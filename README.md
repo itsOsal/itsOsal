@@ -15,13 +15,22 @@ Nǐ hǎo! Wǒ shì OSAL<br>
 <h3 align="center">HOBBIES AND INTERESTS</h3>
 <p align="left">
 • Video & Photo Editing<br>
-• Gaming — PUBG l BGMI l MLBB<br>
 • Reading l Beatboxing l Running<br>
 • English — learning & improving fluency<br>
 • Chinese — interested in learning (speaking)<br>
 • Guitar — fingerstyle l percussion l chord strumming<br>
 </p>
 <hr color="green" height="1">
+<h3 align="center">My Favorite Social Media</h3>
+<hr color="green" height="4">
+
+<p align="center">
+🌐 Socials:<br>
+<a href="https://instagram.com/itsnortse"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+<a href="https://linkedin.com/in/itsnortse"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+<a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+<a href="mailto:itskimsia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</p>
 
 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsnortse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsnortse) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itsOsal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itskimsia@gmail.com) 
