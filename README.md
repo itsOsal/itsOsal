@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".itsOsal/Asset/Banner.png" alt="GitHub Banner" width="100%">
+  <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%">
 </p>
 
 # 💫 About Me:
