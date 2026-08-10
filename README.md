@@ -1,6 +1,6 @@
-<h1 align="center">
-<span style="color:#FF6B6B">W</span><span style="color:#FFA07A">E</span><span style="color:#FFD93D">L</span><span style="color:#6BCB77">C</span><span style="color:#4D96FF">O</span><span style="color:#9D4EDD">M</span><span style="color:#FF6B6B">E</span> <span style="color:#FFA07A">T</span><span style="color:#FFD93D">O</span> <span style="color:#6BCB77">M</span><span style="color:#4D96FF">Y</span> <span style="color:#9D4EDD">U</span><span style="color:#FF6B6B">N</span><span style="color:#FFA07A">I</span><span style="color:#FFD93D">V</span><span style="color:#6BCB77">E</span><span style="color:#4D96FF">R</span><span style="color:#9D4EDD">S</span><span style="color:#FF6B6B">E</span>
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=WELCOME+TO+MY+UNIVERSE" alt="Welcome"/>
+</p>
 <h1 align="center">WELCOME TO MY UNIVERSE</h1>
 <p align="center">
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
