@@ -1,27 +1,50 @@
 <p align="center">
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
-</p>
 <h2 align="center">Welcome To My Universe</h2>
-<hr style="height: 4px; background-color: #ffffff; border: none;">
----
-<p align="left">
+<hr style="height: 4px; background-color: green; border: none;">
+
+<h3 align="center">What I Think</h3>
+<hr style="height: 4px; background-color: green; border: none;">
+
+<p align="left" style="margin: 2px 0;">
+- I’m not an introvert; I just don’t know how to talk to people.
+</p>
+
 Nǐ hǎo! Wǒ shì OSAL
-• Interested in UI/UX Design.
-• Aspiring to become a Software Engineer.
-• Learning l Building l Creating l Improving
+<p align="left" style="margin: 2px 0;">
+- Interested in UI/UX Design.
 </p>
----
+<p align="left" style="margin: 2px 0;">
+- Aspiring to become a Software Engineer.
+</p>
+<p align="left" style="margin: 2px 0;">
+- Learning l Building l Creating l Improving
+</p>
+
 <h3 align="center">Beyond Coding</h3>
-<p align="left">
-• Video & Photo Editin
-• Gaming — PUBG l BGMI l MLBB
-• Reading l Beatboxing l Running
-• Guitar — fingerstyle l percussion l chord strumming
+<hr style="height: 4px; background-color: green; border: none;">
+
+<p align="left" style="margin: 2px 0;">
+- Video & Photo Editing
 </p>
+<p align="left" style="margin: 2px 0;">
+- Gaming — PUBG l BGMI l MLBB
+</p>
+<p align="left" style="margin: 2px 0;">
+- Reading l Beatboxing l Running
+</p>
+<p align="left" style="margin: 2px 0;">
+- Guitar — fingerstyle l percussion l chord strumming
+</p>
+
 <h3 align="center">Languages & Interests</h3>
-<p align="left">
-• English — learning & improving fluency
-• Chinese — interested in learning(speaking)
+<hr style="height: 4px; background-color: green; border: none;">
+
+<p align="left" style="margin: 2px 0;">
+- English — learning & improving fluency
+</p>
+<p align="left" style="margin: 2px 0;">
+- Chinese — interested in learning (speaking)
 </p>
 
 
