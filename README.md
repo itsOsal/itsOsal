@@ -20,9 +20,8 @@ Nǐ hǎo! Wǒ shì OSAL<br>
 <p align="left">
 • Video & Photo Editing<br>
 • Reading l Beatboxing l Running<br>
-• English — learning & improving fluency<br>
-• Chinese — interested in learning (speaking)<br>
-• Guitar — fingerstyle l percussion l chord strumming<br>
+• Guitar - fingerstyle & percussion<br>
+• Interested in chinese(speaking) & english(reading)<br>
 </p>
 <hr color="green" height="1">
 <h3 align="center">My Favorite Social Media</h3>
