@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%">
+  <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="150">
 </p>
 
 <h2># 💫 About Me:
