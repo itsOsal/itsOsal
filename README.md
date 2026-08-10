@@ -3,7 +3,9 @@
 </p>
 
 <h4># 💫 About Me:
-Hi! I'm OSAL<br><br>* Aspiring to become a Software Engineer<br>* Learning, building, and continuously improving<br>* Interested in Web Development & UI/UX Design<br><br><4/>
+Hi! I'm OSAL<br><br>* Aspiring to become a Software Engineer<br>* Learning, building, and continuously improving<br>* Interested in Web Development & UI/UX Design<br><br><h4/>
+<img align="right" alt="coding" width="400" src="https://githubusercontent.com">
+
 
 
 ## 🌐 Socials:
