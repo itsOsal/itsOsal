@@ -1,11 +1,12 @@
 <h1 align="center">WELCOME TO MY UNIVERSE</h1>
 <p align="center">
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
+  <p align="right">
+"I’m not an introvert; I just don’t know how to talk to people"
+  </p>
 <hr color="green" height="1">
   <p align="left">
-Nǐ hǎo! Wǒ shì OSAL<br><p align="right">
-<p>"I’m not an introvert; I just don’t know how to talk to people"
-  </p>
+Nǐ hǎo! Wǒ shì OSAL<br>
 • Interested in UI/UX Design.<br>
 • Aspiring to become a Software Engineer.<br>
 • Learning l Building l Creating l Improving
