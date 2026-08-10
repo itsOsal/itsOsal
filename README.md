@@ -12,6 +12,12 @@
 <td width="33%" align="right"><a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a></td>
 </tr>
 </table>
+<table width="100%">
+<tr>
+<td align="left">A</td>
+<td align="right">B</td>
+</tr>
+</table>
 Nǐ hǎo! Wǒ shì OSAL<br>
 • Interested in UI/UX Design.<br>
 • Aspiring to become a Software Engineer.<br>
