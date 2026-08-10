@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./Asset/welcome-banner.svg" alt="Welcome To My Universe">
 </p>
-<h1 align="center">WELCOME TO MY UNIVERSE</h1>
 <p align="center">
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
   <p align="right">
