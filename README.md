@@ -1,24 +1,18 @@
 <p align="center">
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
 </p>
-<h2 align="center">Welcome To My Universe👋</h2>
-<h2 align="center">🌌 Welcome to my Universe</h2>
-<p align="center">I'm OSAL 👋</p>
-
+<h2 align="center">Welcome To My Universe</h2>
+<p >Hi! I'm OSAL</p>
 <p>
-  🚀 Aspiring Software Engineer • 💻 Web Development • 🎨 UI/UX
+* Aspiring to become a Software Engineer.
 </p>
-
-<p align="center">
-  Learning • Building • Creating • Improving
+<p>
+• Learning • Building • Creating • Improving
 </p>
 
 ---
-
-### 🧑‍💻 About Me
-
-* 🚀 Aspiring to become a **Software Engineer**
-* 💻 Learning **Web Development, Programming & Software Engineering**
+About Me
+*
 * 🎨 Interested in **UI/UX Design**
 * 🤖 Exploring **AI, Automation & Modern Technologies**
 * 📚 I enjoy learning new things and building projects
