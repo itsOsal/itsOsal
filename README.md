@@ -12,7 +12,7 @@
 <!-- OSAL Pac-Man Activity -->
 <div align="center">
   <img
-    src="./assets/OSAL-pacman-activity.svg"
+    src="./Asset/OSAL-pacman-activity.svg"
     alt="OSAL Pac-Man Activity Animation"
     width="100%"
   />
