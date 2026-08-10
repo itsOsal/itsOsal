@@ -1,7 +1,7 @@
 <h1 align="center">WELCOME TO MY UNIVERSE</h1>
 <p align="center">
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
-<hr color="green" height="2">
+<hr color="green" height="1">
 
   <p align="left">
 Nǐ hǎo! Wǒ shì OSAL<br><p align="right">
@@ -11,16 +11,17 @@ Nǐ hǎo! Wǒ shì OSAL<br><p align="right">
 • Aspiring to become a Software Engineer.<br>
 • Learning l Building l Creating l Improving
 </p>
-<hr color="green" height="2">
+<hr color="green" height="1">
 <h3 align="center">HOBBIES AND INTERESTS</h3>
 <p align="left">
 • Video & Photo Editing<br>
 • Gaming — PUBG l BGMI l MLBB<br>
 • Reading l Beatboxing l Running<br>
 • English — learning & improving fluency<br>
-• Chinese — interested in learning (speaking)
+• Chinese — interested in learning (speaking)<br>
 • Guitar — fingerstyle l percussion l chord strumming<br>
 </p>
+<hr color="green" height="1">
 
 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsnortse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsnortse) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itsOsal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itskimsia@gmail.com) 
