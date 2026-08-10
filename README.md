@@ -2,7 +2,7 @@
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
 </p>
 <h2 align="center">Welcome To My Universe</h2>
-<p >Hi! I'm OSAL</p>
+<p >Nǐ hǎo! Wǒ shì OSALL</p>
 <p>
 * Aspiring to become a Software Engineer.
 </p>
