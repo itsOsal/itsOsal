@@ -3,66 +3,26 @@
 </p>
 <h2 align="center">Welcome To My Universe</h2>
 <hr style="height: 4px; background-color: #ffffff; border: none;">
-<h3 align="center">Nǐ hǎo! Wǒ shì OSAL</h3>
 ---
 <p align="left">
-
+Nǐ hǎo! Wǒ shì OSAL
 • Interested in UI/UX Design.
-
 • Aspiring to become a Software Engineer.
-
 • Learning l Building l Creating l Improving
-
 </p>
-
 ---
-
 <h3 align="center">Beyond Coding</h3>
-
 <p align="left">
-
 • Video & Photo Editin
-
 • Gaming — PUBG l BGMI l MLBB
-
 • Reading l Beatboxing l Running
-
 • Guitar — fingerstyle l percussion l chord strumming
-
 </p>
-
 <h3 align="center">Languages & Interests</h3>
-
 <p align="left">
-
-• Tibetan l Neplai l Hindi
-
 • English — learning & improving fluency
-
 • Chinese — interested in learning(speaking)
-
 </p>
-
-<h3 align="center">My Mindset</h3>
-
-<p align="left">
-
-• Learn → Build → Fail → Improve → Repeat
-
-• Deep thinker l Observant l Comfortable in silence l Low social batter Focused.
-
-</p>
-
-<h3 align="center">What I Think</h3>
-
-<p align="left">
-
-• I’m not an introvert; I just don’t know how to talk to people.
-
-</p>
-
-
-
 
 
 🌐 Socials:
