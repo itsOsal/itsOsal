@@ -3,12 +3,8 @@
 </p>
 <h2 align="center">Welcome To My Universe</h2>
 <p >Nǐ hǎo! Wǒ shì OSALL</p>
-<p>
 * Aspiring to become a Software Engineer.
-</p>
-<p>
 • Learning • Building • Creating • Improving
-</p>
 
 ---
 About Me
