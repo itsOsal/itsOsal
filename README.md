@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="10%">
+  <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%">
 </p>
 
 <h4># 💫 About Me:
-# Hi! I'm OSAL<br><br>* Aspiring to become a Software Engineer<br>* Learning, building, and continuously improving<br>* Interested in Web Development & UI/UX Design<br><br><4/>
+Hi! I'm OSAL<br><br>* Aspiring to become a Software Engineer<br>* Learning, building, and continuously improving<br>* Interested in Web Development & UI/UX Design<br><br><4/>
 
 
 ## 🌐 Socials:
