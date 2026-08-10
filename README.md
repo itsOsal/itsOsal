@@ -3,16 +3,11 @@
 </p>
 <h2 align="center">Welcome To My Universe</h2>
 <p >Nǐ hǎo! Wǒ shì OSALL</p>
-* Aspiring to become a Software Engineer.
-• Learning • Building • Creating • Improving
-
 ---
-About Me
-*
-* 🎨 Interested in **UI/UX Design**
-* 🤖 Exploring **AI, Automation & Modern Technologies**
-* 📚 I enjoy learning new things and building projects
-* 🌱 Always trying to improve — one step at a time
+• Interested in UI/UX Design.
+• Aspiring to become a Software Engineer.<br>
+• Learning l Building l Creating l Improving
+---
 
 ### 🎸 Beyond Coding
 
