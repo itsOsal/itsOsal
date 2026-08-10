@@ -5,10 +5,12 @@
 
 <p align="right">
 "I’m not an introvert; I just don’t know how to talk to people."<br>
+  </p>
+  <p align="left">
 Nǐ hǎo! Wǒ shì OSAL<br>
-- Interested in UI/UX Design.<br>
-- Aspiring to become a Software Engineer.<br>
-- Learning l Building l Creating l Improving
+• Interested in UI/UX Design.<br>
+• Aspiring to become a Software Engineer.<br>
+• Learning l Building l Creating l Improving
 </p>
 
 <h3 align="center">Beyond Coding</h3>
