@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td align="left">Nǐ hǎo! Wǒ shì OSAL</td>
-<td align="right">"I’m not an introvert; I just don’t know how to talk to people"</td>
+<td align="right">I’m not an introvert; I just don’t know how to talk to people</td>
 </tr>
 </table>
 
