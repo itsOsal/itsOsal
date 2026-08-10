@@ -2,10 +2,9 @@
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
 </p>
 <h2 align="center">Welcome To My Universe</h2>
+<hr style="height: 4px; background-color: #ffffff; border: none;">
 <h3 align="center">Nǐ hǎo! Wǒ shì OSAL</h3>
-
 ---
-
 <p align="left">
 
 • Interested in UI/UX Design.
