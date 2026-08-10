@@ -13,7 +13,7 @@ Nǐ hǎo! Wǒ shì OSAL<br>
 • Learning l Building l Creating l Improving
 </p>
 
-<h3 align="center">Beyond Coding</h3>
+<h3 align="center">HOBBIES</h3>
 <hr color="green" height="4">
 
 <p align="left">
@@ -27,6 +27,16 @@ Nǐ hǎo! Wǒ shì OSAL<br>
 <hr color="green" height="4">
 
 <p align="left">
+- English — learning & improving fluency<br>
+- Chinese — interested in learning (speaking)
+</p>
+<h3 align="center">Hobbies & Interests</h3>
+<hr color="green" height="4">
+<p align="left">
+- Video & Photo Editing<br>
+- Gaming — PUBG l BGMI l MLBB<br>
+- Reading l Beatboxing l Running<br>
+- Guitar — fingerstyle l percussion l chord strumming<br>
 - English — learning & improving fluency<br>
 - Chinese — interested in learning (speaking)
 </p>
