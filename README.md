@@ -2,7 +2,7 @@
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
 </p>
 
-About Me:><br>
+About Me:
 Hi! I'm OSAL<br><br>* Aspiring to become a Software Engineer<br>* Learning, building, and continuously improving<br>* Interested in Web Development & UI/UX Design<br><br><h2/>
 
 
