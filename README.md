@@ -49,4 +49,3 @@
 </td>
 </tr>
 </table>
-<p align="center"><font size="100"><b>"DO IT NOW OR NEVER."</b></font></p>
