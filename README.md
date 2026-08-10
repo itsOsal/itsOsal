@@ -5,7 +5,7 @@
 
   <p align="left">
 Nǐ hǎo! Wǒ shì OSAL<br><p align="right">
-"I’m not an introvert; I just don’t know how to talk to people."<br>
+"I’m not an introvert; I just don’t know how to talk to people"
   </p>
 • Interested in UI/UX Design.<br>
 • Aspiring to become a Software Engineer.<br>
@@ -14,12 +14,12 @@ Nǐ hǎo! Wǒ shì OSAL<br><p align="right">
 <hr color="green" height="2">
 <h3 align="center">HOBBIES AND INTERESTS</h3>
 <p align="left">
-- Video & Photo Editing<br>
-- Gaming — PUBG l BGMI l MLBB<br>
-- Reading l Beatboxing l Running<br>
-- Guitar — fingerstyle l percussion l chord strumming<br>
-- English — learning & improving fluency<br>
-- Chinese — interested in learning (speaking)
+• Video & Photo Editing<br>
+• Gaming — PUBG l BGMI l MLBB<br>
+• Reading l Beatboxing l Running<br>
+• English — learning & improving fluency<br>
+• Chinese — interested in learning (speaking)
+• Guitar — fingerstyle l percussion l chord strumming<br>
 </p>
 
 🌐 Socials:
