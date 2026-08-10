@@ -5,29 +5,23 @@
 <p >Nǐ hǎo! Wǒ shì OSALL</p>
 ---
 • Interested in UI/UX Design.
-• Aspiring to become a Software Engineer.<br>
+• Aspiring to become a Software Engineer.
 • Learning l Building l Creating l Improving
 ---
 
-### 🎸 Beyond Coding
+Beyond Coding
+• Video & Photo Editin
+• Gaming — PUBG l BGMI l MLBB
+• Reading l Beatboxing l Running
+• Guitar — fingerstyle l percussion l chord strumming
 
-* 🎸 **Guitar** — fingerstyle, percussion & chord strumming
-* 🎮 **Gaming** — PUBG / BGMI
-* 📖 **Reading**
-* 🎤 **Beatboxing**
-* 🎬 **Video & Photo Editing**
-* 🏃 **Running**
+Languages & Interests
+• Tibetan l Neplai l Hindi
+• English — learning & improving fluency
+• Chinese — interested in learning(speaking)
 
-### 🌍 Languages & Interests
-
-* 🇬🇧 **English** — learning & improving fluency
-* 🇨🇳 **Chinese** — interested in learning
-* 🌏 Interested in **languages, cultures & communication**
-
-### 💡 My Mindset
-
-> **Learn → Build → Fail → Improve → Repeat**
-
+My Mindset
+• Learn → Build → Fail → Improve → Repeat
 </p>
 
 
