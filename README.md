@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=WELCOME+TO+MY+UNIVERSE" alt="Welcome"/>
+  <img src="./Asset/welcome-banner.svg" alt="Welcome To My Universe">
 </p>
 <h1 align="center">WELCOME TO MY UNIVERSE</h1>
 <p align="center">
