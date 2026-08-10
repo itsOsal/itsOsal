@@ -1,12 +1,12 @@
 <p align="center">
- <h1> <img src="./Asset/welcome-banner.svg" alt="Welcome To My Universe"></h1>
+  <img src="./Asset/welcome-banner.svg" alt="Welcome To My Universe">
 </p>
 <p align="center">
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
   <p align="right">
 "I’m not an introvert; I just don’t know how to talk to people."
 <hr color="green" height="0.5">
-<h2 align="center">SOCIALS</h2>
+<h1 align="center">SOCIALS</h1>
 <p align="center">
 <a href="https://instagram.com/itsnortse"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
 <a href="https://linkedin.com/in/itsnortse"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
@@ -19,7 +19,7 @@
 • Learning l Building l Creating l Improving
 </p>
 <hr color="green" height="0.5">
-<h2 align="center">HOBBIES AND INTERESTS</h2>
+<h1 align="center">HOBBIES AND INTERESTS</h1>
 <p align="left">
 • Video & Photo Editing<br>
 • Reading l Beatboxing l Running<br>
