@@ -10,19 +10,18 @@
 <a href="https://instagram.com/itsnortse"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
 <a href="https://linkedin.com/in/itsnortse"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 <a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
-<a href="mailto:itskimsia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
  Nǐ hǎo! Wǒ shì OSAL<br>
-- Interested in UI/UX Design.<br>
-- Aspiring to become a Software Engineer.<br>
-- Learning l Building l Creating l Improving
+• Interested in UI/UX Design.<br>
+• Aspiring to become a Software Engineer.<br>
+• Learning l Building l Creating l Improving
 </p>
 <h1 align="center">HOBBIES AND INTERESTS</h1>
 <p align="left">
-- Video & Photo Editing<br>
-- Reading l Beatboxing l Running<br>
-- Guitar - fingerstyle & percussion<br>
-- Interested in chinese(speaking) & english(reading)<br>
+• Video & Photo Editing<br>
+• Reading l Beatboxing l Running<br>
+• Guitar - fingerstyle & percussion<br>
+• Interested in chinese(speaking) & english(reading)<br>
 </p>
 
 # 💻 Tech Stack:
