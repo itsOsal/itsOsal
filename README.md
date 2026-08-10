@@ -1,7 +1,7 @@
 <h1 align="center">WELCOME TO MY UNIVERSE</h1>
 <p align="center">
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
-<hr color="green" height="4">
+<hr color="green" height="2">
 
 <p align="right">
 "I’m not an introvert; I just don’t know how to talk to people."<br>
@@ -13,7 +13,7 @@ Nǐ hǎo! Wǒ shì OSAL<br>
 • Learning l Building l Creating l Improving
 </p>
 <h3 align="center">Hobbies & Interests</h3>
-<hr color="green" height="4">
+<hr color="green" height="2">
 <p align="left">
 - Video & Photo Editing<br>
 - Gaming — PUBG l BGMI l MLBB<br>
