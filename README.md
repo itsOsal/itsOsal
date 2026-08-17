@@ -21,7 +21,7 @@
 • Video & Photo Editing<br>
 • Reading l Beatboxing l Running<br>
 • Guitar - fingerstyle & percussion<br>
-• Interested in chinese(speaking) & english(reading)<br>
+• Interested in chinese(speaking) & english(reading📗)<br>
 </p>
 <h1 align="center">SKILLS & STACK</h1>
 
