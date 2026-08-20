@@ -20,7 +20,7 @@
 <p align="left">
 • Video & Photo Editing<br>
 • Reading l Beatboxing l Running<br>
-• Guitar - fingerstyle & percussion<br>
+• Guitar - fingerstyle & percussion(learning)<br>
 • Interested in chinese(speaking) & english(reading📚)<br>
 </p>
 <h1 align="center">SKILLS & STACK</h1>
