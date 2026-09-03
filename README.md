@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/itsnortse"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 <a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 </p>
- Nǐ hǎo! Wǒ shì OSAL<br>
+ Hi! My name is OSAL<br>
 • AI assisted UI/UX Designer.<br>
 • Aspiring to become a Software Engineer.<br>
 • Learning l Building l Creating l Improving
