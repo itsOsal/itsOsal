@@ -12,7 +12,7 @@
 <a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 </p>
  Hi! My name is OSAL<br>
-• I can I will I must
+• I can I will I must<br>
 • Judge me if ur perfect.<br>
 • Aspiring Software Engineer.<br>
 • Learning l Building l Creating l Improving
