@@ -15,7 +15,6 @@
 • I can I will I must<br>
 • Judge me if ur perfect.<br>
 • Aspiring Software Engineer.<br>
-• Learning l Building l Creating l Improving
 </p>
 <h1 align="center">INTERESTS</h1>
 <p align="left">
