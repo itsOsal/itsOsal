@@ -12,7 +12,7 @@
 <a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 </p>
  Hi! My name is OSAL<br>
-• AI assisted UI/UX Designer.<br>
+• Judge me if ur perfect.
 • Aspiring to become a Software Engineer.<br>
 • Learning l Building l Creating l Improving
 </p>
@@ -21,7 +21,6 @@
 • Video & Photo Editing<br>
 • Calisthenics l Beatboxing l Running<br>
 • Guitar - fingerstyle & percussion(learning)<br>
-• Interested in chinese(speaking) & english(reading📚)<br>
 </p>
 <h1 align="center">SKILLS & STACK</h1>
 
