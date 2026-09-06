@@ -12,6 +12,7 @@
 <a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 </p>
  Hi! My name is OSAL<br>
+• I can I will I must
 • Judge me if ur perfect.<br>
 • Aspiring Software Engineer.<br>
 • Learning l Building l Creating l Improving
@@ -21,7 +22,7 @@
 • Video Editing<br>
 • Ukelele - fingerstyle<br>
 • Guitar - fingerstyle & percussion<br>
-• Calisthenics l Beatboxing l Running I Typing I Acrobatics<br>
+• Calisthenics l Beatboxing l Running I Acrobatics<br>
 </p>
 <h1 align="center">SKILLS & STACK</h1>
 
