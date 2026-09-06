@@ -13,15 +13,15 @@
 </p>
  Hi! My name is OSAL<br>
 • Judge me if ur perfect.<br>
-• Aspiring to become a Software Engineer.<br>
+• Aspiring Software Engineer.<br>
 • Learning l Building l Creating l Improving
 </p>
 <h1 align="center">INTERESTS</h1>
 <p align="left">
-• Video & Photo Editing<br>
+• Video Editing<br>
 • Ukelele - fingerstyle<br>
 • Guitar - fingerstyle & percussion<br>
-• Calisthenics l Beatboxing l Running<br>
+• Calisthenics l Beatboxing l Running I Typing I Acrobatics<br>
 </p>
 <h1 align="center">SKILLS & STACK</h1>
 
