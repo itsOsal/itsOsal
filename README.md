@@ -12,15 +12,16 @@
 <a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 </p>
  Hi! My name is OSAL<br>
-• Judge me if ur perfect.
+• Judge me if ur perfect.<br>
 • Aspiring to become a Software Engineer.<br>
 • Learning l Building l Creating l Improving
 </p>
 <h1 align="center">INTERESTS</h1>
 <p align="left">
 • Video & Photo Editing<br>
+• Ukelele - fingerstyle<br>
+• Guitar - fingerstyle & percussion<br>
 • Calisthenics l Beatboxing l Running<br>
-• Guitar - fingerstyle & percussion(learning)<br>
 </p>
 <h1 align="center">SKILLS & STACK</h1>
 
