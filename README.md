@@ -4,7 +4,7 @@
 <p align="center">
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
   <p align="right">
-"Keep going,because u still have a story to write, & dreams r waiting for u."
+"Keep going, because u still have a story to write, & dreams r waiting for u."
 <h1 align="center">SOCIALS</h1>
 <p align="center">
 <a href="https://instagram.com/itsnortse"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
@@ -19,7 +19,7 @@
 <h1 align="center">INTERESTS</h1>
 <p align="left">
 • Video & Photo Editing<br>
-• Reading l Beatboxing l Running<br>
+• Calisthenics l Beatboxing l Running<br>
 • Guitar - fingerstyle & percussion(learning)<br>
 • Interested in chinese(speaking) & english(reading📚)<br>
 </p>
