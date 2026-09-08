@@ -19,7 +19,6 @@
 <h1 align="center">INTERESTS</h1>
 <p align="left">
 • Video Editing<br>
-• Ukelele - fingerstyle<br>
 • Guitar - fingerstyle & percussion<br>
 • Calisthenics l Beatboxing l Running I Acrobatics<br>
 </p>
