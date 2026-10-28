@@ -5,12 +5,7 @@
   <img src="./Asset/Banner.png" alt="GitHub Banner" width="100%" height="200">
   <p align="right">
 "Keep going, because u still have a story to write, & dreams r waiting for u."
-<h1 align="center">SOCIALS</h1>
-<p align="center">
-<a href="https://instagram.com/itsnortse"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-<a href="https://linkedin.com/in/itsnortse"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://youtube.com/@itsOsal"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
-</p>
+
  Hi! My name is OSAL<br>
 • I can I will I must<br>
 • Judge me if ur perfect.<br>
