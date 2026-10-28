@@ -6,16 +6,11 @@
   <p align="right">
 "Keep going, because u still have a story to write, & dreams r waiting for u."
 
- Hi! My name is OSAL<br>
-• I can I will I must<br>
-• Judge me if ur perfect.<br>
-• Aspiring Software Engineer.<br>
-</p>
 <h1 align="center">INTERESTS</h1>
 <p align="left">
 • Video Editing<br>
 • Guitar - fingerstyle & percussion<br>
-• Calisthenics l Beatboxing l Running I Acrobatics<br>
+• Beatboxing l Running I Reading Books I Playing Chess<br>
 </p>
 <h1 align="center">SKILLS & STACK</h1>
 
